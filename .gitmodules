@@ -1,0 +1,4 @@
+[submodule "child-m"]
+    path = child-m
+    url = git@github.com:sandeshsapkota/child-m.git
+    branch = main
